@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #2b8aa9;
+}
+.container {
+  background-color: white;
+  padding: 25px;
+  margin: 30px auto;
+  height: 40vh;
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+}
+.quote {
+  height: 35vh;
+}
+p {
+  text-align: center;
+  font-size: 1.5em;
+  color: #2b8aa9;
+}
+.author {
+  text-align: right;
+}
+button {
+  background-color: #2b8aa9;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  width: 100px;
+}
